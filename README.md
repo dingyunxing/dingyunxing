@@ -2,9 +2,9 @@
 <h1 align="left">Hi 👋, I'm James Ding</h1>
 <h4 align="left">A code worker based in New Zealand :new_zealand:</h4>
 
-- 🔭 I’m currently working on **Data Science, Data Engineer and MLOps**
+- 🔭 I’m currently working on **[Data Science](https://en.wikipedia.org/wiki/Data_science), [Data Engineering](https://quanthub.com/what-is-data-engineering/), and [MLOps](https://ml-ops.org/)**
 
-- 🌱 I’m currently learning **Golang and lots of other cool stuff**
+- 🌱 I’m currently learning **[Golang](https://go.dev/) and lots of other cool stuff**
 
 - 💬 If you have any questions **Just ask me**
 
