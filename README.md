@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/22164578/158704350-68f1e4fc-da39-47d7-af82-64e25883bbfb.png)
+![image](Kakao_Friends.png)
 <h1 align="left">Hi 👋, I'm James Ding</h1>
 <h4 align="left">A code worker based in New Zealand :new_zealand:</h4>
 
